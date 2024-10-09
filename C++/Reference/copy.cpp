@@ -29,7 +29,7 @@ int main() {
     // Print the copied array
     std::cout << "Copied Array: ";
     for (int i : copied) {
-        std::cout << i << " "; // Print each element in the copied array
+        std::cout << i << " "; // Print each element in the copied array 
     }
     std::cout << std::endl;
 
