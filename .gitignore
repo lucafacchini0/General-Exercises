@@ -11,6 +11,12 @@
 *.gch
 *.pch
 
+# Ignore JetBrains IDE project files
+.idea/
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
